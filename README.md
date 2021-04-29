@@ -2,7 +2,7 @@
 
 Fork this repo for the YAML Files for Harness Canary Workshop.
 Modification will be needed in "sample_application/values.yaml". Modifying the allowed origins address
-to match your Elastic Load Balancer[or any public IP] address to access the Prom API. 
+to match your Elastic Load Balancer [or any public IP] address to access the Prom API. 
 
 e.g
 
